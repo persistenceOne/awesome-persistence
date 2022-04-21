@@ -14,7 +14,7 @@ Gas: Fees added on to each transaction to avoid spamming and pay for computing p
 
 Validators can set commissions on the fees they receive as an additional incentive.
 
-If validators double sign, are frequently offline, or do not participate in governance, their staked XPRT (including XPRT of users that delegated to them) can be slashed. Penalties can vary depending on the severity of the violation.  
+If validators double sign or frequently offline, their staked XPRT (including XPRT of users that delegated to them) can be slashed. Penalties can vary depending on the severity of the violation.  
 
 ---
 
