@@ -6,6 +6,8 @@
 
 [Cosmos](https://github.com/cosmos/chain-registry/tree/master/persistence)
 
+[Directory](https://cosmos.directory/persistence)
+
 ### Endpoints
 
 We provide following endpoints to help developers for integration
