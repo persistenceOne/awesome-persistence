@@ -8,6 +8,8 @@
 
 [Directory](https://cosmos.directory/persistence)
 
+[All That Node](https://www.allthatnode.com/persistence.dsrv)
+
 ### Endpoints
 
 We provide following endpoints to help developers for integration
