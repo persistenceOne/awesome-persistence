@@ -32,6 +32,8 @@ we also provide archival endpoints to retrieve historical data
 
 ### Seeds Nodes
 
+`449a0f1b7dafc142cf23a1f6166bbbf035edfb10@13.232.85.66:26656,5b27a6d4cf33909c0e5b217789e7455e261941d1@15.223.104.135:26656`
+
 ### State-Sync
 to use statesync change the following under `config.toml`
 ```toml
